@@ -2,7 +2,7 @@
     "openapi": "3.0.0",
     "info": {
         "description": "This is an API for BWA News",
-        "title": "BWA News API",
+        "title": "BE News API",
         "contact": {
             "name": "Admin",
             "email": "admin@mail.com"
@@ -15,7 +15,7 @@
     },
     "servers": [
         {
-            "url": "http://localhost:8080/api"
+            "url": "http://localhost:8000/api"
         }
     ],
     "paths": {
